@@ -1,0 +1,73 @@
+正在检测三元组 x64-windows 的编译器哈希...
+当前已安装所有请求的包。
+总安装时间: 2.6 us
+catch2 提供 CMake 目标:
+
+  # 这是启发式生成的，并且可能不正确
+  find_package(Catch2 CONFIG REQUIRED)
+  target_link_libraries(main PRIVATE Catch2::Catch2)
+
+catch2 提供 pkg-config 模块:
+
+    # A modern, C++-native, header-only, test framework for C++11
+    catch2
+
+The package fmt provides CMake targets:
+
+    find_package(fmt CONFIG REQUIRED)
+    target_link_libraries(main PRIVATE fmt::fmt)
+
+    # Or use the header-only version
+    find_package(fmt CONFIG REQUIRED)
+    target_link_libraries(main PRIVATE fmt::fmt-header-only)
+
+The package glew is compatible with built-in CMake targets:
+
+    find_package(GLEW REQUIRED)
+    target_link_libraries(main PRIVATE GLEW::GLEW)
+
+glfw3 提供 CMake 目标:
+
+  # 这是启发式生成的，并且可能不正确
+  find_package(glfw3 CONFIG REQUIRED)
+  target_link_libraries(main PRIVATE glfw)
+
+glfw3 提供 pkg-config 模块:
+
+    # A multi-platform library for OpenGL, window and input
+    glfw3
+
+glm 提供 CMake 目标:
+
+  # 这是启发式生成的，并且可能不正确
+  find_package(glm CONFIG REQUIRED)
+  target_link_libraries(main PRIVATE glm::glm)
+
+imgui 提供 CMake 目标:
+
+  # 这是启发式生成的，并且可能不正确
+  find_package(imgui CONFIG REQUIRED)
+  target_link_libraries(main PRIVATE imgui::imgui)
+
+ms-gsl 提供 CMake 目标:
+
+  # 这是启发式生成的，并且可能不正确
+  find_package(Microsoft.GSL CONFIG REQUIRED)
+  target_link_libraries(main PRIVATE Microsoft.GSL::GSL)
+
+nativefiledialog 提供 CMake 目标:
+
+  # 这是启发式生成的，并且可能不正确
+  find_package(unofficial-nativefiledialog CONFIG REQUIRED)
+  target_link_libraries(main PRIVATE unofficial::nativefiledialog::nfd)
+
+stb 是仅限标头的，可通过以下方式从 CMake 使用:
+
+    find_path(STB_INCLUDE_DIRS "stb.h")
+    target_include_directories(main PRIVATE ${STB_INCLUDE_DIRS})
+
+The package tbb provides CMake targets:
+
+    find_package(TBB CONFIG REQUIRED)
+    target_link_libraries(main PRIVATE TBB::tbb)
+

@@ -1,0 +1,10 @@
+D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/VolVis.dir
+D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/ImGuiWrapper.dir
+D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/Viewer.dir
+D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/test.dir
+D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/integrity_tests/CMakeFiles/IntegrityTests.dir
+D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/integrity_tests/CMakeFiles/test.dir
+D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/integrity_tests/CMakeFiles/edit_cache.dir
+D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/integrity_tests/CMakeFiles/rebuild_cache.dir

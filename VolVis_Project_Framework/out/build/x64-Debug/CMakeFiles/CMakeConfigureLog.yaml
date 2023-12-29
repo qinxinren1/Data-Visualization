@@ -1,0 +1,263 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/RQX/\u8f6f\u4ef6/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CMakeDetermineSystem.cmake:204 (message)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      The system is: Windows - 10.0.22621 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/RQX/\u8f6f\u4ef6/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/RQX/\u8f6f\u4ef6/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/RQX/\u8f6f\u4ef6/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler: D:/RQX/软件/Visual Studio/VC/Tools/MSVC/14.37.32822/bin/Hostx64/x64/cl.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.37.32822 版
+      版权所有(C) Microsoft Corporation。保留所有权利。
+      
+      CMakeCCompilerId.c
+      Microsoft (R) Incremental Linker Version 14.37.32822.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      /out:CMakeCCompilerId.exe 
+      CMakeCCompilerId.obj 
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+      
+      The C compiler identification is MSVC, found in:
+        D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/3.26.4-msvc4/CompilerIdC/CMakeCCompilerId.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/RQX/\u8f6f\u4ef6/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:1153 (message)"
+      - "D:/RQX/\u8f6f\u4ef6/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:221 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "D:/RQX/\u8f6f\u4ef6/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Detecting C compiler /showIncludes prefix:
+        main.c
+        注意: 包含文件:  D:\\RQX\\TUD\\Q2\\DV\\VolVis_Project_Framework\\out\\build\\x64-Debug\\CMakeFiles\\ShowIncludes\\foo.h
+        
+      Found prefix "注意: 包含文件:  "
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/RQX/\u8f6f\u4ef6/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/RQX/\u8f6f\u4ef6/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/RQX/\u8f6f\u4ef6/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: D:/RQX/软件/Visual Studio/VC/Tools/MSVC/14.37.32822/bin/Hostx64/x64/cl.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.37.32822 版
+      版权所有(C) Microsoft Corporation。保留所有权利。
+      
+      CMakeCXXCompilerId.cpp
+      Microsoft (R) Incremental Linker Version 14.37.32822.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      /out:CMakeCXXCompilerId.exe 
+      CMakeCXXCompilerId.obj 
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+      
+      The CXX compiler identification is MSVC, found in:
+        D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/3.26.4-msvc4/CompilerIdCXX/CMakeCXXCompilerId.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/RQX/\u8f6f\u4ef6/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:1153 (message)"
+      - "D:/RQX/\u8f6f\u4ef6/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:221 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "D:/RQX/\u8f6f\u4ef6/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Detecting CXX compiler /showIncludes prefix:
+        main.c
+        注意: 包含文件:  D:\\RQX\\TUD\\Q2\\DV\\VolVis_Project_Framework\\out\\build\\x64-Debug\\CMakeFiles\\ShowIncludes\\foo.h
+        
+      Found prefix "注意: 包含文件:  "
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/RQX/\u8f6f\u4ef6/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "D:/RQX/\u8f6f\u4ef6/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-nsdpsj"
+      binary: "D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-nsdpsj"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      VCPKG_APPLOCAL_DEPS: "ON"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "D:/RQX/\u7533\u8bf7\u6750\u6599/\u7533\u8bf7\u5b66\u6821/TUD/Q2/DV/Data-Visualization/VolVis_Project_Framework/vcpkg"
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-nsdpsj
+        
+        Run Build Command(s):D:/RQX/软件/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_b8a21 && [1/2] "D:\\RQX\\软件\\Visual Studio\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe"  /nologo   /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_b8a21.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_b8a21.dir\\ /FS -c "D:\\RQX\\软件\\Visual Studio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
+        [2/2] cmd.exe /C "cd . && "D:\\RQX\\软件\\Visual Studio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_b8a21.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- "D:\\RQX\\软件\\Visual Studio\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\link.exe" /nologo CMakeFiles\\cmTC_b8a21.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_b8a21.exe /implib:cmTC_b8a21.lib /pdb:cmTC_b8a21.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cmd.exe /C "cd /D D:\\RQX\\TUD\\Q2\\DV\\VolVis_Project_Framework\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-nsdpsj && C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noprofile -executionpolicy Bypass -file D:/RQX/申请材料/申请学校/TUD/Q2/DV/Data-Visualization/VolVis_Project_Framework/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-nsdpsj/cmTC_b8a21.exe -installedDir D:/RQX/申请材料/申请学校/TUD/Q2/DV/Data-Visualization/VolVis_Project_Framework/vcpkg/installed/x64-windows/debug/bin -OutVariable out""
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/RQX/\u8f6f\u4ef6/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "D:/RQX/\u8f6f\u4ef6/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-2ae0np"
+      binary: "D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-2ae0np"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      VCPKG_APPLOCAL_DEPS: "ON"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "D:/RQX/\u7533\u8bf7\u6750\u6599/\u7533\u8bf7\u5b66\u6821/TUD/Q2/DV/Data-Visualization/VolVis_Project_Framework/vcpkg"
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-2ae0np
+        
+        Run Build Command(s):D:/RQX/软件/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_ab9b6 && [1/2] "D:\\RQX\\软件\\Visual Studio\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe"  /nologo /TP   /DWIN32 /D_WINDOWS /GR /EHsc  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_ab9b6.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_ab9b6.dir\\ /FS -c "D:\\RQX\\软件\\Visual Studio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
+        [2/2] cmd.exe /C "cd . && "D:\\RQX\\软件\\Visual Studio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_ab9b6.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- "D:\\RQX\\软件\\Visual Studio\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\link.exe" /nologo CMakeFiles\\cmTC_ab9b6.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_ab9b6.exe /implib:cmTC_ab9b6.lib /pdb:cmTC_ab9b6.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cmd.exe /C "cd /D D:\\RQX\\TUD\\Q2\\DV\\VolVis_Project_Framework\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-2ae0np && C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noprofile -executionpolicy Bypass -file D:/RQX/申请材料/申请学校/TUD/Q2/DV/Data-Visualization/VolVis_Project_Framework/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-2ae0np/cmTC_ab9b6.exe -installedDir D:/RQX/申请材料/申请学校/TUD/Q2/DV/Data-Visualization/VolVis_Project_Framework/vcpkg/installed/x64-windows/debug/bin -OutVariable out""
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/RQX/\u8f6f\u4ef6/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "D:/RQX/\u8f6f\u4ef6/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CheckCSourceCompiles.cmake:76 (cmake_check_source_compiles)"
+      - "D:/RQX/\u8f6f\u4ef6/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/FindThreads.cmake:97 (CHECK_C_SOURCE_COMPILES)"
+      - "D:/RQX/\u8f6f\u4ef6/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/FindThreads.cmake:163 (_threads_check_libc)"
+      - "D:/RQX/\u7533\u8bf7\u6750\u6599/\u7533\u8bf7\u5b66\u6821/TUD/Q2/DV/Data-Visualization/VolVis_Project_Framework/vcpkg/scripts/buildsystems/vcpkg.cmake:859 (_find_package)"
+      - "CMakeLists.txt:22 (find_package)"
+    checks:
+      - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
+    directories:
+      source: "D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-h4oiuq"
+      binary: "D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-h4oiuq"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      VCPKG_APPLOCAL_DEPS: "ON"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "D:/RQX/\u7533\u8bf7\u6750\u6599/\u7533\u8bf7\u5b66\u6821/TUD/Q2/DV/Data-Visualization/VolVis_Project_Framework/vcpkg"
+    buildResult:
+      variable: "CMAKE_HAVE_LIBC_PTHREAD"
+      cached: true
+      stdout: |
+        Change Dir: D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-h4oiuq
+        
+        Run Build Command(s):D:/RQX/软件/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_45cfd && [1/2] "D:\\RQX\\软件\\Visual Studio\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe"  /nologo -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_45cfd.dir\\src.c.obj /FdCMakeFiles\\cmTC_45cfd.dir\\ /FS -c D:\\RQX\\TUD\\Q2\\DV\\VolVis_Project_Framework\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-h4oiuq\\src.c
+        FAILED: CMakeFiles/cmTC_45cfd.dir/src.c.obj 
+        "D:\\RQX\\软件\\Visual Studio\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe"  /nologo -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_45cfd.dir\\src.c.obj /FdCMakeFiles\\cmTC_45cfd.dir\\ /FS -c D:\\RQX\\TUD\\Q2\\DV\\VolVis_Project_Framework\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-h4oiuq\\src.c
+        D:\\RQX\\TUD\\Q2\\DV\\VolVis_Project_Framework\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-h4oiuq\\src.c(1): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/RQX/\u8f6f\u4ef6/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CheckLibraryExists.cmake:71 (try_compile)"
+      - "D:/RQX/\u8f6f\u4ef6/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/FindThreads.cmake:112 (CHECK_LIBRARY_EXISTS)"
+      - "D:/RQX/\u8f6f\u4ef6/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/FindThreads.cmake:175 (_threads_check_lib)"
+      - "D:/RQX/\u7533\u8bf7\u6750\u6599/\u7533\u8bf7\u5b66\u6821/TUD/Q2/DV/Data-Visualization/VolVis_Project_Framework/vcpkg/scripts/buildsystems/vcpkg.cmake:859 (_find_package)"
+      - "CMakeLists.txt:22 (find_package)"
+    checks:
+      - "Looking for pthread_create in pthreads"
+    directories:
+      source: "D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-mcv0ik"
+      binary: "D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-mcv0ik"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      VCPKG_APPLOCAL_DEPS: "ON"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "D:/RQX/\u7533\u8bf7\u6750\u6599/\u7533\u8bf7\u5b66\u6821/TUD/Q2/DV/Data-Visualization/VolVis_Project_Framework/vcpkg"
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREADS_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-mcv0ik
+        
+        Run Build Command(s):D:/RQX/软件/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_4a56d && [1/2] "D:\\RQX\\软件\\Visual Studio\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe"  /nologo   /DWIN32 /D_WINDOWS -DCHECK_FUNCTION_EXISTS=pthread_create /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_4a56d.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_4a56d.dir\\ /FS -c D:\\RQX\\TUD\\Q2\\DV\\VolVis_Project_Framework\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-mcv0ik\\CheckFunctionExists.c
+        [2/2] cmd.exe /C "cd . && "D:\\RQX\\软件\\Visual Studio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_4a56d.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- "D:\\RQX\\软件\\Visual Studio\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\link.exe" /nologo CMakeFiles\\cmTC_4a56d.dir\\CheckFunctionExists.c.obj  /out:cmTC_4a56d.exe /implib:cmTC_4a56d.lib /pdb:cmTC_4a56d.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cmd.exe /C "cd /D D:\\RQX\\TUD\\Q2\\DV\\VolVis_Project_Framework\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-mcv0ik && C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noprofile -executionpolicy Bypass -file D:/RQX/申请材料/申请学校/TUD/Q2/DV/Data-Visualization/VolVis_Project_Framework/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-mcv0ik/cmTC_4a56d.exe -installedDir D:/RQX/申请材料/申请学校/TUD/Q2/DV/Data-Visualization/VolVis_Project_Framework/vcpkg/installed/x64-windows/debug/bin -OutVariable out""
+        FAILED: cmTC_4a56d.exe 
+        cmd.exe /C "cd . && "D:\\RQX\\软件\\Visual Studio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_4a56d.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- "D:\\RQX\\软件\\Visual Studio\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\link.exe" /nologo CMakeFiles\\cmTC_4a56d.dir\\CheckFunctionExists.c.obj  /out:cmTC_4a56d.exe /implib:cmTC_4a56d.lib /pdb:cmTC_4a56d.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cmd.exe /C "cd /D D:\\RQX\\TUD\\Q2\\DV\\VolVis_Project_Framework\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-mcv0ik && C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noprofile -executionpolicy Bypass -file D:/RQX/申请材料/申请学校/TUD/Q2/DV/Data-Visualization/VolVis_Project_Framework/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-mcv0ik/cmTC_4a56d.exe -installedDir D:/RQX/申请材料/申请学校/TUD/Q2/DV/Data-Visualization/VolVis_Project_Framework/vcpkg/installed/x64-windows/debug/bin -OutVariable out""
+        LINK Pass 1: command "D:\\RQX\\软件\\Visual Studio\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_4a56d.dir\\CheckFunctionExists.c.obj /out:cmTC_4a56d.exe /implib:cmTC_4a56d.lib /pdb:cmTC_4a56d.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_4a56d.dir/intermediate.manifest CMakeFiles\\cmTC_4a56d.dir/manifest.res" failed (exit code 1104) with the following output:
+        LINK : fatal error LNK1104: 无法打开文件“pthreads.lib”\x0d
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/RQX/\u8f6f\u4ef6/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/CheckLibraryExists.cmake:71 (try_compile)"
+      - "D:/RQX/\u8f6f\u4ef6/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/FindThreads.cmake:112 (CHECK_LIBRARY_EXISTS)"
+      - "D:/RQX/\u8f6f\u4ef6/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/FindThreads.cmake:176 (_threads_check_lib)"
+      - "D:/RQX/\u7533\u8bf7\u6750\u6599/\u7533\u8bf7\u5b66\u6821/TUD/Q2/DV/Data-Visualization/VolVis_Project_Framework/vcpkg/scripts/buildsystems/vcpkg.cmake:859 (_find_package)"
+      - "CMakeLists.txt:22 (find_package)"
+    checks:
+      - "Looking for pthread_create in pthread"
+    directories:
+      source: "D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-4l5pn5"
+      binary: "D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-4l5pn5"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      VCPKG_APPLOCAL_DEPS: "ON"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "D:/RQX/\u7533\u8bf7\u6750\u6599/\u7533\u8bf7\u5b66\u6821/TUD/Q2/DV/Data-Visualization/VolVis_Project_Framework/vcpkg"
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREAD_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-4l5pn5
+        
+        Run Build Command(s):D:/RQX/软件/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_67aaf && [1/2] "D:\\RQX\\软件\\Visual Studio\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe"  /nologo   /DWIN32 /D_WINDOWS -DCHECK_FUNCTION_EXISTS=pthread_create /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_67aaf.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_67aaf.dir\\ /FS -c D:\\RQX\\TUD\\Q2\\DV\\VolVis_Project_Framework\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-4l5pn5\\CheckFunctionExists.c
+        [2/2] cmd.exe /C "cd . && "D:\\RQX\\软件\\Visual Studio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_67aaf.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- "D:\\RQX\\软件\\Visual Studio\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\link.exe" /nologo CMakeFiles\\cmTC_67aaf.dir\\CheckFunctionExists.c.obj  /out:cmTC_67aaf.exe /implib:cmTC_67aaf.lib /pdb:cmTC_67aaf.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cmd.exe /C "cd /D D:\\RQX\\TUD\\Q2\\DV\\VolVis_Project_Framework\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-4l5pn5 && C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noprofile -executionpolicy Bypass -file D:/RQX/申请材料/申请学校/TUD/Q2/DV/Data-Visualization/VolVis_Project_Framework/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-4l5pn5/cmTC_67aaf.exe -installedDir D:/RQX/申请材料/申请学校/TUD/Q2/DV/Data-Visualization/VolVis_Project_Framework/vcpkg/installed/x64-windows/debug/bin -OutVariable out""
+        FAILED: cmTC_67aaf.exe 
+        cmd.exe /C "cd . && "D:\\RQX\\软件\\Visual Studio\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_67aaf.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- "D:\\RQX\\软件\\Visual Studio\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\link.exe" /nologo CMakeFiles\\cmTC_67aaf.dir\\CheckFunctionExists.c.obj  /out:cmTC_67aaf.exe /implib:cmTC_67aaf.lib /pdb:cmTC_67aaf.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cmd.exe /C "cd /D D:\\RQX\\TUD\\Q2\\DV\\VolVis_Project_Framework\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-4l5pn5 && C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noprofile -executionpolicy Bypass -file D:/RQX/申请材料/申请学校/TUD/Q2/DV/Data-Visualization/VolVis_Project_Framework/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary D:/RQX/TUD/Q2/DV/VolVis_Project_Framework/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-4l5pn5/cmTC_67aaf.exe -installedDir D:/RQX/申请材料/申请学校/TUD/Q2/DV/Data-Visualization/VolVis_Project_Framework/vcpkg/installed/x64-windows/debug/bin -OutVariable out""
+        LINK Pass 1: command "D:\\RQX\\软件\\Visual Studio\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_67aaf.dir\\CheckFunctionExists.c.obj /out:cmTC_67aaf.exe /implib:cmTC_67aaf.lib /pdb:cmTC_67aaf.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_67aaf.dir/intermediate.manifest CMakeFiles\\cmTC_67aaf.dir/manifest.res" failed (exit code 1104) with the following output:
+        LINK : fatal error LNK1104: 无法打开文件“pthread.lib”\x0d
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+...
